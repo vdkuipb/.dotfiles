@@ -1,0 +1,21 @@
+[user]
+	name = Bram Willem van der Kuip
+	email = vdkuipb@gmail.com
+
+[github]
+	name = Bram Willem van der Kuip
+	email = vdkuipb@gmail.com
+
+[gitlab]
+	name = Bram Willem van der Kuip
+	email = bramvanderkuip@touchtribe.nl
+
+[init]
+	defaultBranch = main
+	
+[core]
+	editor = nvim
+
+[alias]
+	s = status
+
