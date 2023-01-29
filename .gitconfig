@@ -1,0 +1,12 @@
+[user]
+	name = Bram Willem van der Kuip
+	email = vdkuipb@gmail.com
+
+[init]
+	defaultBranch = main
+
+[core]
+	editor = nvim
+
+[alias]
+	s = status
